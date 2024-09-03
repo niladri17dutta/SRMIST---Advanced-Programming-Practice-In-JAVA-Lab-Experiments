@@ -14,22 +14,27 @@ class Calculator {
     // Method to perform arithmetic operations based on the operator
     public int calculate(int a, int b, char operator) {
         switch (operator) {
-            case '+':
+            case '+' -> {
                 return a + b;
-            case '-':
+            }
+            case '-' -> {
                 return a - b;
-            case '*':
+            }
+            case '*' -> {
                 return a * b;
-            case '/':
+            }
+            case '/' -> {
                 if (b != 0) {
                     return a / b;
                 } else {
                     System.out.println("Error: Division by zero");
                     return 0;
                 }
-            default:
+            }
+            default -> {
                 System.out.println("Error: Invalid operator");
                 return 0;
+            }
         }
     }
 }

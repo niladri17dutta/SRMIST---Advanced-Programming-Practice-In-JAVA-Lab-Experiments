@@ -41,7 +41,7 @@ public class Q4BRectangle {
 
     public static void main(String[] args) {
         // Creating a Rectangle object
-        Rectangle rect = new Rectangle(10.0, 5.0);
+        Q4BRectangle rect = new Q4BRectangle(10.0, 5.0);
 
         // Accessing and modifying the length and width using getter and setter methods
         System.out.println("Length: " + rect.getLength());
