@@ -1,6 +1,6 @@
 
 
-<p align="center"><a href="https://github.com/niladri17dutta/SRMIST---Advanced-Programming-Practice-In-JAVA-Lab-Experiments" target="_blank" rel="noopener noreferrer"><img src="https://github.com/niladri17dutta/SRMIST---Advanced-Programming-Practice-In-JAVA-Lab-Experiments/readme_assets/logo.png" alt="re-frame logo"></a></p>
+<p align="center"><a href="https://github.com/niladri17dutta/SRMIST---Advanced-Programming-Practice-In-JAVA-Lab-Experiments" target="_blank" rel="noopener noreferrer"><img src="https://github.com/niladri17dutta/SRMIST---Advanced-Programming-Practice-In-JAVA-Lab-Experiments/blob/main/readme_assests/logo.png" alt="re-frame logo"></a></p>
 
 ## Advanced Programming Practice In JAVA Lab Experiments Solutions
 
