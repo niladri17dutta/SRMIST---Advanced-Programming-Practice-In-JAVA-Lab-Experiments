@@ -12,6 +12,6 @@
 
 Advanced Programming Practice In JAVA Lab Experiments Solutions is a collection of Java Programs in SRMIST . Each program is named with its ```question number```along with ```PDF of all the questions``` are provided. The solutions consist of Question Number, Session, Question Desription and Code. If you like this repository, consider giving a ⭐ to [this repo](https://github.com/niladri17dutta/SRMIST---Advanced-Programming-Practice-In-JAVA-Lab-Experiments).
 
-## References 
+## References
 
 SRM IST Elab Website can be found [here](https://dld.srmist.edu.in/).
