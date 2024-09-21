@@ -13,7 +13,7 @@ class RandomNumberGenerator extends Thread {
                 // If the number is even, notify the square thread
                 if (number % 2 == 0) {
                     new SquareThread(number).start();
-                } 
+                }
                 // If the number is odd, notify the cube thread
                 else {
                     new CubeThread(number).start();
