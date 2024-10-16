@@ -28,11 +28,9 @@ public class Q1MySQLConnectionExample {
         } catch (SQLException e) {
             // Handle SQL exceptions
             System.out.println("SQL Exception: " + e.getMessage());
-            e.printStackTrace();
         } catch (ClassNotFoundException e) {
             // Handle Class Not Found exceptions
             System.out.println("JDBC Driver not found: " + e.getMessage());
-            e.printStackTrace();
         } finally {
             // Close the connection when done
             try {
@@ -42,7 +40,6 @@ public class Q1MySQLConnectionExample {
                 }
             } catch (SQLException e) {
                 System.out.println("Error while closing the connection: " + e.getMessage());
-                e.printStackTrace();
             }
         }
     }
